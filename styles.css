@@ -106,12 +106,12 @@ img, picture, svg, video{
 		grid-template-columns: 1fr 1fr;
 		justify-items: center;
 		row-gap: 2rem;
-		height: 38rem;
+		height: 40rem;
 	}
 	.card{
 		width: 20.5rem;
 	}
-	heading-1{
+	.heading-1{
 		font-size: 2.2rem;
 	}
 	.heading-2{
