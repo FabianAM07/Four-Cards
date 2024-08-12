@@ -111,6 +111,12 @@ img, picture, svg, video{
 	.card{
 		width: 20.5rem;
 	}
+	heading-1{
+		font-size: 2.2rem;
+	}
+	.heading-2{
+		font-size: 2.2rem;
+	}
 }
 @media screen and (min-width:69rem){
 	.header{
@@ -145,6 +151,12 @@ img, picture, svg, video{
 	.card:nth-child(4){
 		grid-area: rgt;
 		align-self: center;
+	}
+	.heading-1{
+		font-size: 2.2rem;
+	}
+	.heading-2{
+		font-size: 2.2rem;
 	}
 }
 
